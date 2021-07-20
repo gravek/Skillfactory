@@ -6,11 +6,13 @@ def game_core_v2_5_tries(number):
     min_edge = 1
     max_edge = 101
 
-    # Создаем переменную для попыток угадать,
-    # В ней же первая попытка угадать:
+    # Создаем счетчик попыток и переменную predict 
+    # для попыток угадать.    
     count = 1
     predict = int((max_edge - min_edge) / 2)    
 
+    # Метод - отсекаем половину, где нет искомого числа.
+    # Ищем только в зроне, которую еще не осекли:
     while number != predict:        
         count += 1
         if number > predict:
@@ -20,4 +22,5 @@ def game_core_v2_5_tries(number):
         elif number < predict:
             max_edge = predict
             predict = int(max_edge - (max_edge - min_edge) / 2)
-    return(count)  # выход из цикла, если угадали
+    return count  # выход из цикла, если угадали
+    
