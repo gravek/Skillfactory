@@ -24,15 +24,16 @@
 
 ## Some facts
 - The machine learning model used was Random Forest Regressor from Scikit-learn.
-- The average deviation of the predicted values **0.1616 MAE** (Mean Absolute Error) from the actual values
-- The work is competing on Kaggle (link)
-- [**You can also see it here**](https://www.tripadvisor.com/)
+- The average deviation of the predicted values from the actual values -- **0.1616 MAE** (Mean Absolute Error)
+- The work is competing on [Kaggle](https://www.kaggle.com/andreikukunov/baseline-sf-tripadvisor-rating-v2-7)
+- You can also see it [**here**](https://github.com/gravek/Skillfactory/blob/master/module_2/baseline-sf-tripadvisor-rating-v2-7.ipynb)
 
 ### Некоторые факты
 - Использовалась модель машинного обучения Random Forest Regressor от Scikit-learn.
-- Удалось добиться среднего отклонения предсказанных значений  **0.1616 MAE** от фактических
-- Работа участвует в соревновании на [Kaggle]https://www.kaggle.com/andreikukunov/baseline-sf-tripadvisor-rating-v2-7)
-- Также можно ознакомиться с ней [здесь](https://www.kaggle.com/andreikukunov/baseline-sf-tripadvisor-rating-v2-7)
+- Удалось добиться среднего отклонения предсказанных значений от фактических --  **0.1616 MAE**
+- Работа участвует в соревновании на [Kaggle](https://www.kaggle.com/andreikukunov/baseline-sf-tripadvisor-rating-v2-7)
+- Также можно ознакомиться с ней [**здесь**](https://github.com/gravek/Skillfactory/blob/master/module_2/baseline-sf-tripadvisor-rating-v2-7.ipynb)
+
 
 
 ![](https://4.bp.blogspot.com/_15hf9pFgwks/S0Tx2j4jl3I/AAAAAAAAAWo/0YQwpN51z5E/s320/Fig+2-1+Fortune+teller.jpg) 
