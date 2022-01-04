@@ -2,7 +2,7 @@
 ====================================================
 ## Bank credit scoring
 
-[SkillFactory DST Project at Kaggle]('https://www.kaggle.com/andreikukunov/baseline-v1-sf-scoring-ak')
+[SkillFactory DST Project at Kaggle](https://www.kaggle.com/andreikukunov/baseline-v1-sf-scoring-ak)
 
 ![Credit Score](images/Credit-Score.jpg)
 # Что сделано
