@@ -2,7 +2,7 @@
 ====================================================
 ## Bank credit scoring
 
-[SkillFactory DST Project at Kaggle]('https://www.kaggle.com/andreikukunov/baseline-v1-sf-scoring-ak')
+[SkillFactory DST Project at Kaggle](https://www.kaggle.com/andreikukunov/baseline-v1-sf-scoring-ak)
 
 ![Credit Score](images/Credit-Score.jpg)
 # Что сделано
@@ -55,7 +55,7 @@ Cross Validation Metrics
 > признаки (из всех), которые наиболее заметно меняются вместе с ним : 
 > * decline_app_cnt 
 > * bki_request_cnt
-> * education_ФСВ
+> * education_ACD
 > * car_type
  
 * Медиана возраста (age) дефолтных клиентов банка чуть ниже
@@ -72,10 +72,13 @@ Cross Validation Metrics
 * Доход (income) дефолтных ожидаемо ниже
  
  
-#### Разглядываем коэффициенты модели
+#### Коэффициенты модели
 
-> Увеличение значения каждого признака на 1 увеличивает вероятность дефолта на значение 'coef'
-![coef_num](images/coef_num.png)  ![coef_other](images/coef_other.png)
+> Увеличение значения каждого признака на 1 (или положительное значение у бинарного) увеличивает вероятность дефолта клиента на значение 'coef'
+
+![coef_](images/coef_.jpg.png)
+
+
 
 Структура работы
 =================
@@ -104,4 +107,4 @@ Cross Validation Metrics
 	
 - [Submission](#submission)
 
-- [Приложение: pandas_profiling](#Приложение:-pandas_profiling)
+- [Приложение: отчет о датасете от pandas_profiling](#Приложение:-pandas_profiling)
