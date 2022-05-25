@@ -1,6 +1,11 @@
 # Межгалактический хакатон 2022
 
-[UFC](https://user-images.githubusercontent.com/76701877/169634479-fac0d992-394d-4d43-9639-ec98bd71619f.png)
+
+[Презентация проекта совместной работы](Hackathon_UFC_Presentation.html)
+
+[Подробное описание работы с ML](https://github.com/gravek/Skillfactory/tree/master/Hackathon_UFC_AK)
+
+
 
 Вашему вниманию представлен проект в рамках которого была решена задача по предсказанию победителя бойца UFC в рамках межгалактического хакатона 2022.
 
