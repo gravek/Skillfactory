@@ -9,7 +9,7 @@
 
 ### Лучшие значения метрик:
 > MAPE   **9.88**  
-> SCORE **10.95** (30-е место на август '22)
+> [SCORE **10.95**](https://www.kaggle.com/competitions/sf-dst-car-price-prediction-part2/leaderboard?search=andreikukunov) (30-е место на август '22)
 
 
 
