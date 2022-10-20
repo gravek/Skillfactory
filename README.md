@@ -1,4 +1,6 @@
-#### **2022 год в Data Science**
+# **Portfolio**
+
+### **2022 год в Data Science**
 
 **Музыка в ответ на эмоции (дипломный проект)**
 
@@ -40,7 +42,7 @@
 * Кратко на [GitHub](https://github.com/gravek/Skillfactory/tree/master/Hackathon_UFC_AK)
 * Подробное описание проекта на [GitHub](https://github.com/gravek/Skillfactory/tree/master/Hackathon_UFC)
 
-#### **2021 год в Data Science**
+### **2021 год в Data Science**
 
 **Викторина "Кто хочет стать миллионером"**
 
